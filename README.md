@@ -60,4 +60,4 @@
 
 <h1 align="center"> 📊 Stats </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact) 
+![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)
