@@ -1,19 +1,17 @@
-<h1 align="center">Hey There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/6709252?v=4" width="200" height="200" style="border-radius:50%"/>
-</div>
-Welcome to my Profile. I'm Kerem.
-</h1>
+<h1 align="center"> 👨‍💻 About Me </h1>
 
-# 👨‍💻 About Me
 - 🎂 Age: 26 y.o
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Cyber Security, Software Security, Threat Hunting, SOC Engineering, QA and Software Engineering
 - 💼 Experience: 3 Years in Information Security
 
-# 🛠️ My Skillset
 
-## <img src="https://cdn.iconscout.com/icon/free/png-256/coding-294-459944.png" width="25px" height="25px"> Programming
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremoruc/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/keraattin)
+
+<h1 align="center">🛠️ My Skillset</h1>
+
+## <img src="https://cdn.iconscout.com/icon/free/png-256/coding-294-459944.png" width="24px" height="24px"> Programming
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +19,7 @@ Welcome to my Profile. I'm Kerem.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## <img src="https://cdn.iconscout.com/icon/free/png-256/database-828-448141.png" width="25px" height="25px"> Database
+## <img src="https://cdn.iconscout.com/icon/free/png-256/database-828-448141.png" width="24px" height="24px"> Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -29,7 +27,7 @@ Welcome to my Profile. I'm Kerem.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-## <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/frontend-1874446-1587018.png" width="25px" height="25px"> Frontend
+## <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/frontend-1874446-1587018.png" width="24px" height="24px"> Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -60,6 +58,6 @@ Welcome to my Profile. I'm Kerem.
 
 <br>
 
-# <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/contact-detail-1-471251.png" width="25px" height="25px"> Contact Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/keraattin)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremoruc/)
+<h1 align="center"> 📊 Stats </h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact) 
