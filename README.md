@@ -1,6 +1,5 @@
 <h1 align="center"> 👨‍💻 About Me </h1>
 
-- 🎂 Age: 26 y.o
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Cyber Security, Software Security, Threat Hunting, SOC Engineering, QA and Software Engineering
 - 💼 Experience: 3 Years in Information Security
