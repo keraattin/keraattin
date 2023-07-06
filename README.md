@@ -2,11 +2,12 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Cyber Security, Software Security, Threat Hunting, SOC Engineering, QA and Software Engineering
-- 💼 Experience: 3 Years in Information Security
+- 💼 Experience: 4 Years in Information&Cyber Security
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremoruc/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/keraattin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerem.tech/)
 
 <h1 align="center">🛠️ My Skillset</h1>
 
