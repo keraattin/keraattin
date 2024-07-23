@@ -60,8 +60,8 @@
 
 <h1 align="center"> 📊 Stats </h1>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keraattin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=300)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keraattin&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=300)
 
-![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact)
+![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact&card_width=800&card_height=300)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact&card_width=800&card_height=300)
