@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Cyber Security, Software Security, Threat Hunting, SOC Engineering, QA and Software Engineering
-- 💼 Experience: 4 Years in Information&Cyber Security
+- 💼 Experience: 5 Years in Information&Cyber Security
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremoruc/)
@@ -60,4 +60,8 @@
 
 <h1 align="center"> 📊 Stats </h1>
 
-![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keraattin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=300)
+
+![Keraattins's GitHub stats](https://github-readme-stats.vercel.app/api?username=keraattin&show_icons=true&theme=radical&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keraattin&show_icons=true&theme=radical&layout=compact)
