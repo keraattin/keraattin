@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 Interests: Cyber Security, Software Security, Threat Hunting, SOC Engineering, QA and Software Engineering
-- 💼 Experience: 5 Years in Information&Cyber Security
+- 💼 Experience: 6 Years in Information&Cyber Security
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremoruc/)
